@@ -1,6 +1,10 @@
 Preconditiom
- node 14+ above installed
+ node 14+ version and above installed
 
- Cone the Repo
+ Clone the Repo
   git clone https://github.com/Saurabh1908/Playwright-Automation1.git
+
+Playwright Command used for Installation
+npm init playwright@latest
+
 
